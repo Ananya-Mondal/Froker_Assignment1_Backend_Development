@@ -46,6 +46,6 @@ b) Accessing this end point with valid payload but a expired token.
 <img src="https://github.com/Ananya-Mondal/Froker_Assignment1_Backend_Development/blob/main/img13.png" />
 c) Accessing this end point with valid payload and a valide token.
 <img src="https://github.com/Ananya-Mondal/Froker_Assignment1_Backend_Development/blob/main/img14.png" />
-d) Accessing this end point with valid payload and a valide token.
+d) Accessing this end point with valid payload and a valide token with borrow amount grater than purchasing power amount.
 <img src="https://github.com/Ananya-Mondal/Froker_Assignment1_Backend_Development/blob/main/img15.png" />
   
