@@ -24,13 +24,16 @@ b) Accessing this end point with valid payload. It return a access token. We nee
 <img src="https://github.com/Ananya-Mondal/Froker_Assignment1_Backend_Development/blob/main/img6.png" />
 c) Accessing this end point with valid payload but wrong credential.
 <img src="https://github.com/Ananya-Mondal/Froker_Assignment1_Backend_Development/blob/main/img7.png" />
-d) Accessing this end point with valid payload but without token.
-<img src="https://github.com/Ananya-Mondal/Froker_Assignment1_Backend_Development/blob/main/img8.png" />
-e) Accessing this end point with valid payload but with any value in token.
-<img src="https://github.com/Ananya-Mondal/Froker_Assignment1_Backend_Development/blob/main/img9.png" />
-f) Accessing this end point with valid payload and valide token.
-<img src="https://github.com/Ananya-Mondal/Froker_Assignment1_Backend_Development/blob/main/img10.png" />
 
-f) Accessing this end point with valid payload and valide token.
+<h3>3. Show User Data</h3>
+Endpoint: GET http://127.0.0.1:3010/user
+
+a) Accessing this end point with valid payload but without token.
+<img src="https://github.com/Ananya-Mondal/Froker_Assignment1_Backend_Development/blob/main/img8.png" />
+b) Accessing this end point with valid payload but with any value in token.
+<img src="https://github.com/Ananya-Mondal/Froker_Assignment1_Backend_Development/blob/main/img9.png" />
+c) Accessing this end point with valid payload and valide token.
+<img src="https://github.com/Ananya-Mondal/Froker_Assignment1_Backend_Development/blob/main/img10.png" />
+d) Accessing this end point with valid payload and valide token.
 <img src="https://github.com/Ananya-Mondal/Froker_Assignment1_Backend_Development/blob/main/img11.png" />
   
