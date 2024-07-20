@@ -20,7 +20,7 @@ Endpoint: POST http://127.0.0.1:3010/login
 
 a) Accessing this end point without any payload.
 <img src="https://github.com/Ananya-Mondal/Froker_Assignment1_Backend_Development/blob/main/img5.png" />
-b) Accessing this end point with valid payload. It return a access token. We need to use this token to access any other Api
+b) Accessing this end point with valid payload. It return a access token. We need to use this token to access any other Api. This token is valide for 3 minutes.
 <img src="https://github.com/Ananya-Mondal/Froker_Assignment1_Backend_Development/blob/main/img6.png" />
 c) Accessing this end point with valid payload but wrong credential.
 <img src="https://github.com/Ananya-Mondal/Froker_Assignment1_Backend_Development/blob/main/img7.png" />
