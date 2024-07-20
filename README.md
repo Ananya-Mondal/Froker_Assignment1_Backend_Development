@@ -12,7 +12,7 @@ c) Accessing this end point with duplicate email.
 d) Accessing this end point with a payload age is lessthan 20 or salary lessthan 25k return application_is_approve status false
 <img src="https://github.com/Ananya-Mondal/Froker_Assignment1_Backend_Development/blob/main/img4.png" />
 
-Database View after SignUp
+<h4>Database View after SignUp</h4>
 <img src="https://github.com/Ananya-Mondal/Froker_Assignment1_Backend_Development/blob/main/img19.png" />
 
 <h3>2. Login API</h3>
