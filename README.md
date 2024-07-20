@@ -34,6 +34,6 @@ b) Accessing this end point with valid payload but with any value in token.
 <img src="https://github.com/Ananya-Mondal/Froker_Assignment1_Backend_Development/blob/main/img9.png" />
 c) Accessing this end point with valid payload and valide token.
 <img src="https://github.com/Ananya-Mondal/Froker_Assignment1_Backend_Development/blob/main/img10.png" />
-d) Accessing this end point with valid payload and valide token.
+d) Accessing this end point with valid payload and invalide token.
 <img src="https://github.com/Ananya-Mondal/Froker_Assignment1_Backend_Development/blob/main/img11.png" />
   
