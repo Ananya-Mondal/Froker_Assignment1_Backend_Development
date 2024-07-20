@@ -9,6 +9,8 @@ b) Accessing this end point with valid payload.
 <img src="https://github.com/Ananya-Mondal/Froker_Assignment1_Backend_Development/blob/main/img2.png" />
 c) Accessing this end point with duplicate email.
 <img src="https://github.com/Ananya-Mondal/Froker_Assignment1_Backend_Development/blob/main/img3.png" />
-d) Accessing this end point with a payload age is lessthan 20 or salary lessthan 25k return approval status false
+d) Accessing this end point with a payload age is lessthan 20 or salary lessthan 25k return application_is_approve status false
 <img src="https://github.com/Ananya-Mondal/Froker_Assignment1_Backend_Development/blob/main/img4.png" />
+e) Accessing this end point with a payload age is lessthan 20 or salary lessthan 25k return application_is_approve status false
+<img src="https://github.com/Ananya-Mondal/Froker_Assignment1_Backend_Development/blob/main/img5.png" />
   
