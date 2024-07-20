@@ -20,7 +20,7 @@ Endpoint: POST http://127.0.0.1:3010/login
 
 a) Accessing this end point without any payload.
 <img src="https://github.com/Ananya-Mondal/Froker_Assignment1_Backend_Development/blob/main/img5.png" />
-b) Accessing this end point with valid payload. It return a access token. We need to use this token to access any other Api. This token is valide for 3 minutes.
+b) Accessing this end point with valid payload. It return a access token. We need to use this token to access any other Api. This token is valid for 3 minutes.
 <img src="https://github.com/Ananya-Mondal/Froker_Assignment1_Backend_Development/blob/main/img6.png" />
 c) Accessing this end point with valid payload but wrong credential.
 <img src="https://github.com/Ananya-Mondal/Froker_Assignment1_Backend_Development/blob/main/img7.png" />
@@ -32,9 +32,9 @@ a) Accessing this end point with valid payload but without token.
 <img src="https://github.com/Ananya-Mondal/Froker_Assignment1_Backend_Development/blob/main/img8.png" />
 b) Accessing this end point with valid payload but with any value in token.
 <img src="https://github.com/Ananya-Mondal/Froker_Assignment1_Backend_Development/blob/main/img9.png" />
-c) Accessing this end point with valid payload and valide token.
+c) Accessing this end point with valid payload and valid token.
 <img src="https://github.com/Ananya-Mondal/Froker_Assignment1_Backend_Development/blob/main/img10.png" />
-d) Accessing this end point with valid payload and invalide token.
+d) Accessing this end point with valid payload and invalid token.
 <img src="https://github.com/Ananya-Mondal/Froker_Assignment1_Backend_Development/blob/main/img11.png" />
 
 <h3>4. Borrow Money API</h3>
@@ -44,12 +44,12 @@ a) Accessing this end point without payload.
 <img src="https://github.com/Ananya-Mondal/Froker_Assignment1_Backend_Development/blob/main/img12.png" />
 b) Accessing this end point with valid payload but a expired token.
 <img src="https://github.com/Ananya-Mondal/Froker_Assignment1_Backend_Development/blob/main/img13.png" />
-c) Accessing this end point with valid payload and a valide token.
+c) Accessing this end point with valid payload and a valid token.
 <img src="https://github.com/Ananya-Mondal/Froker_Assignment1_Backend_Development/blob/main/img14.png" />
-d) Accessing this end point with valid payload and a valide token with borrow amount grater than purchasing power amount.
+d) Accessing this end point with valid payload and a valid token with borrow amount grater than purchasing power amount.
 <img src="https://github.com/Ananya-Mondal/Froker_Assignment1_Backend_Development/blob/main/img15.png" />
-e) Accessing this end point with valid payload and a valide token with negetive borrow amount or negetive tenure.
+e) Accessing this end point with valid payload and a valid token with negetive borrow amount or negetive tenure.
 <img src="https://github.com/Ananya-Mondal/Froker_Assignment1_Backend_Development/blob/main/img16.png" />
-f) Accessing this end point with valid payload and a valide token with negetive borrow amount or negetive tenure.
+f) Accessing this end point with valid payload and a valid token but token is for a user, whose application is not approved.
 <img src="https://github.com/Ananya-Mondal/Froker_Assignment1_Backend_Development/blob/main/img18.png" />
   
