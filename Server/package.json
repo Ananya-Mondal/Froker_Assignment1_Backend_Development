@@ -4,9 +4,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "nodemon index.js",
-    "install-server": "npm install",
-    "start-server": "node index.js"
+    "start": "nodemon index.js"   
     },
   "keywords": [],
   "author": "",
