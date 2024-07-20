@@ -42,6 +42,8 @@ Endpoint: POST http://127.0.0.1:3010/borrow
 
 a) Accessing this end point without payload.
 <img src="https://github.com/Ananya-Mondal/Froker_Assignment1_Backend_Development/blob/main/img12.png" />
-b) Accessing this end point without payload.
+b) Accessing this end point with valid payload but a expired token.
 <img src="https://github.com/Ananya-Mondal/Froker_Assignment1_Backend_Development/blob/main/img13.png" />
+c) Accessing this end point with valid payload but a expired token.
+<img src="https://github.com/Ananya-Mondal/Froker_Assignment1_Backend_Development/blob/main/img14.png" />
   
