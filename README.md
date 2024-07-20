@@ -1,4 +1,4 @@
-Backend Development Assignment
+<center><h1>Backend Development Assignment</h1></center>
 
 APIs
 1. Approve Application During Signup
