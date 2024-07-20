@@ -1,6 +1,6 @@
 <center><h1>Backend Development Assignment</h1></center>
 
-APIs
+<h2>APIs</h2>
 1. Approve Application During Signup
 Endpoint: POST http://127.0.0.1:3010/signup
 
