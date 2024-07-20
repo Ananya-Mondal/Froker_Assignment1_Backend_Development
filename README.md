@@ -15,6 +15,8 @@ d) Accessing this end point with a payload age is lessthan 20 or salary lessthan
 <h3>2. Login API</h3>
 Endpoint: POST http://127.0.0.1:3010/login
 
-a) Accessing this end point with a payload age is lessthan 20 or salary lessthan 25k return application_is_approve status false
+a) Accessing this end point without any payload.
 <img src="https://github.com/Ananya-Mondal/Froker_Assignment1_Backend_Development/blob/main/img5.png" />
+b) Accessing this end point without any payload.
+<img src="https://github.com/Ananya-Mondal/Froker_Assignment1_Backend_Development/blob/main/img6.png" />
   
