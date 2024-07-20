@@ -48,4 +48,6 @@ c) Accessing this end point with valid payload and a valide token.
 <img src="https://github.com/Ananya-Mondal/Froker_Assignment1_Backend_Development/blob/main/img14.png" />
 d) Accessing this end point with valid payload and a valide token with borrow amount grater than purchasing power amount.
 <img src="https://github.com/Ananya-Mondal/Froker_Assignment1_Backend_Development/blob/main/img15.png" />
+e) Accessing this end point with valid payload and a valide token with borrow amount grater than purchasing power amount.
+<img src="https://github.com/Ananya-Mondal/Froker_Assignment1_Backend_Development/blob/main/img16.png" />
   
