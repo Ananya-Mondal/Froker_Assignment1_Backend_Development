@@ -4,8 +4,10 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "nodemon index.js"
-  },
+    "start": "nodemon index.js",
+    "install-server": "npm install",
+    "start-server": "node app.js"
+    },
   "keywords": [],
   "author": "",
   "license": "ISC",
