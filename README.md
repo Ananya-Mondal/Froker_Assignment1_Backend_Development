@@ -51,5 +51,5 @@ d) Accessing this end point with valid payload and a valide token with borrow am
 e) Accessing this end point with valid payload and a valide token with negetive borrow amount or negetive tenure.
 <img src="https://github.com/Ananya-Mondal/Froker_Assignment1_Backend_Development/blob/main/img16.png" />
 f) Accessing this end point with valid payload and a valide token with negetive borrow amount or negetive tenure.
-<img src="https://github.com/Ananya-Mondal/Froker_Assignment1_Backend_Development/blob/main/img17.png" />
+<img src="https://github.com/Ananya-Mondal/Froker_Assignment1_Backend_Development/blob/main/img18.png" />
   
