@@ -17,6 +17,6 @@ Endpoint: POST http://127.0.0.1:3010/login
 
 a) Accessing this end point without any payload.
 <img src="https://github.com/Ananya-Mondal/Froker_Assignment1_Backend_Development/blob/main/img5.png" />
-b) Accessing this end point without any payload.
+b) Accessing this end point with valid payload. It return a access token. We need to use this token to access any other Api
 <img src="https://github.com/Ananya-Mondal/Froker_Assignment1_Backend_Development/blob/main/img6.png" />
   
