@@ -26,6 +26,6 @@ c) Accessing this end point with valid payload but wrong credential.
 <img src="https://github.com/Ananya-Mondal/Froker_Assignment1_Backend_Development/blob/main/img7.png" />
 d) Accessing this end point with valid payload but without token.
 <img src="https://github.com/Ananya-Mondal/Froker_Assignment1_Backend_Development/blob/main/img8.png" />
-e) Accessing this end point with valid payload but without token.
+e) Accessing this end point with valid payload but with any value in token.
 <img src="https://github.com/Ananya-Mondal/Froker_Assignment1_Backend_Development/blob/main/img9.png" />
   
