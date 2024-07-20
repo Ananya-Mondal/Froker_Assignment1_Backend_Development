@@ -19,6 +19,8 @@ a) Accessing this end point without any payload.
 <img src="https://github.com/Ananya-Mondal/Froker_Assignment1_Backend_Development/blob/main/img5.png" />
 b) Accessing this end point with valid payload. It return a access token. We need to use this token to access any other Api
 <img src="https://github.com/Ananya-Mondal/Froker_Assignment1_Backend_Development/blob/main/img6.png" />
-c) Accessing this end point with valid payload. It return a access token. We need to use this token to access any other Api
+c) Accessing this end point with valid payload but wrong credential.
 <img src="https://github.com/Ananya-Mondal/Froker_Assignment1_Backend_Development/blob/main/img7.png" />
+d) Accessing this end point with valid payload but wrong credential.
+<img src="https://github.com/Ananya-Mondal/Froker_Assignment1_Backend_Development/blob/main/img8.png" />
   
