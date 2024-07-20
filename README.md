@@ -38,8 +38,10 @@ d) Accessing this end point with valid payload and invalide token.
 <img src="https://github.com/Ananya-Mondal/Froker_Assignment1_Backend_Development/blob/main/img11.png" />
 
 <h3>4. Borrow Money API</h3>
-Endpoint: GET http://127.0.0.1:3010/borrow
+Endpoint: POST http://127.0.0.1:3010/borrow
 
-a) Accessing this end point with valid payload and invalide token.
+a) Accessing this end point without payload.
 <img src="https://github.com/Ananya-Mondal/Froker_Assignment1_Backend_Development/blob/main/img12.png" />
+b) Accessing this end point without payload.
+<img src="https://github.com/Ananya-Mondal/Froker_Assignment1_Backend_Development/blob/main/img13.png" />
   
