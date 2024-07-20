@@ -11,6 +11,10 @@ c) Accessing this end point with duplicate email.
 <img src="https://github.com/Ananya-Mondal/Froker_Assignment1_Backend_Development/blob/main/img3.png" />
 d) Accessing this end point with a payload age is lessthan 20 or salary lessthan 25k return application_is_approve status false
 <img src="https://github.com/Ananya-Mondal/Froker_Assignment1_Backend_Development/blob/main/img4.png" />
-e) Accessing this end point with a payload age is lessthan 20 or salary lessthan 25k return application_is_approve status false
+
+<h3>2. Login API</h3>
+Endpoint: POST http://127.0.0.1:3010/login
+
+a) Accessing this end point with a payload age is lessthan 20 or salary lessthan 25k return application_is_approve status false
 <img src="https://github.com/Ananya-Mondal/Froker_Assignment1_Backend_Development/blob/main/img5.png" />
   
