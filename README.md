@@ -52,4 +52,7 @@ e) Accessing this end point with valid payload and a valid token with negetive b
 <img src="https://github.com/Ananya-Mondal/Froker_Assignment1_Backend_Development/blob/main/img16.png" />
 f) Accessing this end point with valid payload and a valid token but token is for a user, whose application is not approved.
 <img src="https://github.com/Ananya-Mondal/Froker_Assignment1_Backend_Development/blob/main/img18.png" />
+
+<h4>Database View after Placing Borrow Request</h4>
+<img src="https://github.com/Ananya-Mondal/Froker_Assignment1_Backend_Development/blob/main/img20.png" />
   
